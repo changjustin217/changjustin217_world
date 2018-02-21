@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.0.13'
+gem 'rails'
 gem 'sqlite3'
 gem 'simple_form'
 gem 'carrierwave'
-gem 'will_paginate'
+# gem 'will_paginate'
 gem 'jquery-rails'
 
 gem 'sass-rails',   '~> 4.0.0'
